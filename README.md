@@ -1,6 +1,6 @@
 # Trying Gemini API
 
-This repository contains random experiments on the Gemini API by Google.
+This repository contains my random experiments on the Gemini API by Google.
 
 ## Code Files
 
